@@ -1,0 +1,18 @@
+# Data files (large / sensitive)
+data/
+scripts/
+output/centris_rendered.html
+output/expansion_checklist.html
+output/map_final.png
+output/map_screenshot*.png
+output/map_tooltip.png
+output/qc_fsa_map.html
+output/scraper_run2.log
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# macOS
+.DS_Store
